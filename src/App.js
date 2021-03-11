@@ -1,10 +1,10 @@
 import React from "react";
-import { InputForm } from "./components/FormOrder";
+import OrderPage from "./components/OrderPage";
 
 function App() {
   return (
     <div className="container mt-4">
-      <InputForm />
+      <OrderPage />
       
     </div>
   );
